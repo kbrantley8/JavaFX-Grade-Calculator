@@ -1,0 +1,4 @@
+Quiz: 91 97 100 90 100 100 30 
+MidTerm: 107 90 30 
+LowestMidTerm: 74 10 
+Final: 80 30

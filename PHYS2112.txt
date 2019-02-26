@@ -1,0 +1,8 @@
+BucketPoints: 110 10 
+Laboratory: 90 98 95 85 90 93 90 95 98 90 100 15 
+Recitation: 93 98 86 100 92 99 98 100 93 97 100 5 
+6%Exam: 65 6 
+9%Exam: 72 9 
+12%Exam: 78 12 
+18%Exam: 84 18 
+Final: 61 25
